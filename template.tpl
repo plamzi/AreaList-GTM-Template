@@ -10,6 +10,7 @@ ___INFO___
 
 {
   "displayName": "AreaList",
+  "categories": ["ANALYTICS", "CONVERSIONS", "LEAD_GENERATION"],
   "description": "Track impressions & clicks on a large number of UI elements based on their visibility to end users.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
