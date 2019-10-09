@@ -15,5 +15,5 @@
 homepage: "https://www.qa2l.com"
 documentation: "https://www.qa2l.com/blog/176-introducing-arealist-for-adobe-launch"
 versions:
-  - sha: 5171db5c6dbf936858845cd0e63dda37801ca0f0
-    changeNotes: Initial commit
+  - sha: ccdd046e07bc53225932699369bf89956713acca
+    changeNotes: renamed main tpl file
